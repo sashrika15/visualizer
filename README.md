@@ -11,13 +11,7 @@ It utilises the Healthcare Graph (Drug Interaction/FAERS) and visualizes the mos
 - Run the notebook
 
 ## Demo
-
-<img src="misc/demo.gif" width="800">
-
-## To-do
-- [ ] Finish streamlit frontend
-- [ ] Integrate the model with a flutter app
-- [ ] Improve accuracy for distance measurement
+<img src="assets/demo.gif" width="800">
 
 ## Contributor
 - [Sashrika Surya](https://github.com/sashrika15)
